@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+D:\VisualStudioProjects\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+D:\VisualStudioProjects\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+D:\VisualStudioProjects\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+D:\VisualStudioProjects\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+D:\VisualStudioProjects\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+D:\VisualStudioProjects\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+D:\VisualStudioProjects\Perceptron\Perceptron\obj\Debug\Perceptron.FormPerceptron.resources
+D:\VisualStudioProjects\Perceptron\Perceptron\obj\Debug\Perceptron.csprojAssemblyReference.cache
